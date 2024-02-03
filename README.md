@@ -1,5 +1,9 @@
 ### Hi there 👋
+Programo em Java, html, css, JavaScript e react.
 
+tenho 6 sites sendo 2 deles com back em java.
+
+meu principal projeto e o PROGRAMEDLE, um jogo web inspirado em jogos como termo, conexo, gamedle entre outros que visa ensinar programação, o projeto esta desenvolvimente.
 <!--
 **PedroChastalo/PedroChastalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
