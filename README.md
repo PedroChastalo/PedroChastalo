@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 🎓 Estudante de Ciência da Computação na **UTFPR**  
-🤖 Membro do **LAMIA**
+🤖 Membro do **LAMIA** (LABORATÓRIO DE APRENDIZADO DE MÁQUINA E IMAGENS APLICADOS À INDÚSTRIA) 
 
 ---
 
