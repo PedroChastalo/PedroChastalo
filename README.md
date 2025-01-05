@@ -12,6 +12,7 @@
 ### Linguagens de Programação
 - **Java**
 - **JavaScript**
+- **TypeScript**
 - **C**
 
 ### Frameworks e Bibliotecas
