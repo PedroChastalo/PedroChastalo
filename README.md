@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Engenheiro Frontend junior na **MUVIEN**, uma plataforma SaaS de ponta desenvolvendo soluções avançadas de logística. Sou especializado na construção de aplicações web escaláveis e de alta performance com foco em experiências excepcionais para o usuário. Como estudante de Ciência da Computação na UTFPR e membro do [LAMIA](https://www.lamia-edu.com/) (Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria), combino conhecimento acadêmico com experiência prática na indústria.
+Engenheiro Fullstack junior no LAMIA, trabalhando em diversos projetos como a *Muvien* , uma plataforma SaaS de ponta desenvolvendo soluções avançadas de logística. *INAI* uma plataforma de gestão financeira de impresas com o auxilia de IA. Sou especializado na construção de aplicações web escaláveis e de alta performance com foco em experiências excepcionais para o usuário. Como estudante de Ciência da Computação na UTFPR e membro do [LAMIA](https://www.lamia-edu.com/) (Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria), combino conhecimento acadêmico com experiência prática na indústria.
 
 Destaco-me na arquitetura de sistemas leves, rápidos e escaláveis utilizando padrões de design modernos e melhores práticas. Minha expertise abrange todo o stack de desenvolvimento web, com particular força em tecnologias frontend e uma base sólida em desenvolvimento backend.
 
